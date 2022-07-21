@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algorithm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_array_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_array_3-Debug-3fc1167770f61011ddc5.json",
+					"name" : "Array_array_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_class_president::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_class_president-Debug-e589feff078d48e3877c.json",
+					"name" : "Array_class_president",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_dice_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_dice_game-Debug-d41deee2e65a913bd176.json",
+					"name" : "Array_dice_game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_offset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_offset-Debug-851ddf687d17e114cc28.json",
+					"name" : "Array_offset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_point_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_point_calc-Debug-ace0e3c3c328eb7fda09.json",
+					"name" : "Array_point_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_1-Debug-d3f091331457b2241d3b.json",
+					"name" : "Array_triangle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_3-Debug-aa9c70a4bc787163f0a1.json",
+					"name" : "Array_triangle_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_last::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_last-Debug-69126275eebc3bdc99d6.json",
+					"name" : "Array_triangle_last",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_BFS_DFS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_BFS_DFS-Debug-a732ee345ba3b1c893d4.json",
+					"name" : "BFS_BFS_DFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_BFS_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_BFS_example-Debug-ce6fe81263aaa7d4223d.json",
+					"name" : "BFS_BFS_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_maze::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_maze-Debug-d6abb03c73b8860de071.json",
+					"name" : "BFS_maze",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_weird_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_weird_calc-Debug-78f8cfe36b7876e1d392.json",
+					"name" : "BFS_weird_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_maxofarr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_maxofarr-Debug-34d002180087a632960f.json",
+					"name" : "Simple_Brutal_Force_maxofarr",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gimseungheon/Documents/Algorithm/cmake-build-debug",
+		"source" : "/Users/gimseungheon/Documents/Algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

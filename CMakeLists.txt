@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.22)
+project(Algorithm)
+
+set(CMAKE_CXX_STANDARD 14)
+
+#add_executable(Algorithm
+#        BFS/BFS_example.cpp)
+add_executable(BFS_BFS_example BFS/BFS_example.cpp)
+add_executable(BFS_BFS_DFS BFS/BFS_DFS.cpp)
+add_executable(BFS_weird_calc BFS/weird_calc.cpp)
+add_executable(BFS_maze BFS/maze.cpp)
+add_executable(Array_triangle_1 Array/triangle_1.cpp)
+add_executable(Array_triangle_3 Array/triangle_3.cpp)
+add_executable(Array_triangle_last Array/triangle_last.cpp)
+add_executable(Array_dice_game Array/dice_game.cpp)
+add_executable(Array_point_calc Array/point_calc.cpp)
+add_executable(Array_array_3 Array/array_3.cpp)
+add_executable(Simple_Brutal_Force_maxofarr Simple_Brutal_Force/maxofarr.cpp)
+add_executable(Array_offset Array/offset.cpp)
+add_executable(Array_class_president Array/class_president.cpp)
