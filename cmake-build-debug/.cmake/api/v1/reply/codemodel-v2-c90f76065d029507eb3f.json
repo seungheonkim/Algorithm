@@ -27,7 +27,8 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13
 					]
 				}
 			],
@@ -54,7 +55,8 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13
 					]
 				}
 			],
@@ -70,7 +72,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Array_class_president::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Array_class_president-Debug-e589feff078d48e3877c.json",
+					"jsonFile" : "target-Array_class_president-Debug-6df4ff873066de198e05.json",
 					"name" : "Array_class_president",
 					"projectIndex" : 0
 				},
@@ -84,7 +86,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Array_offset::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Array_offset-Debug-851ddf687d17e114cc28.json",
+					"jsonFile" : "target-Array_offset-Debug-42055ee76c760416195f.json",
 					"name" : "Array_offset",
 					"projectIndex" : 0
 				},
@@ -149,6 +151,13 @@
 					"id" : "Simple_Brutal_Force_maxofarr::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Simple_Brutal_Force_maxofarr-Debug-34d002180087a632960f.json",
 					"name" : "Simple_Brutal_Force_maxofarr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack_Queue_stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack_Queue_stack-Debug-75dd05821412632eb83a.json",
+					"name" : "Stack_Queue_stack",
 					"projectIndex" : 0
 				}
 			]
