@@ -24,3 +24,4 @@ add_executable(Stack_Queue_parenthesis_string Stack_Queue/parenthesis_string.cpp
 add_executable(DFS_binaryGraph DFS/binaryGraph.cpp)
 add_executable(DFS_name_the_box DFS/numbering_house.cpp)
 add_executable(DFS_worm_virus DFS/worm_virus.cpp)
+add_executable(DFS_find_same_ancestor DFS/find_same_ancestor.cpp)
