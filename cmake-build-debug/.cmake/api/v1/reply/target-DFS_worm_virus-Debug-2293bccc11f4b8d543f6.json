@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "DFS_name_the_box"
+			"path" : "DFS_worm_virus"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "DFS_name_the_box::@6890427a1f51a3e7e1df",
+	"id" : "DFS_worm_virus::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "DFS_name_the_box",
-	"nameOnDisk" : "DFS_name_the_box",
+	"name" : "DFS_worm_virus",
+	"nameOnDisk" : "DFS_worm_virus",
 	"paths" : 
 	{
 		"build" : ".",
@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DFS/numbering_house.cpp",
+			"path" : "DFS/worm_virus.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
