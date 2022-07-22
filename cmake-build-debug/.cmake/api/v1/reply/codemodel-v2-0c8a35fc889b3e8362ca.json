@@ -28,7 +28,8 @@
 						10,
 						11,
 						12,
-						13
+						13,
+						14
 					]
 				}
 			],
@@ -56,7 +57,8 @@
 						10,
 						11,
 						12,
-						13
+						13,
+						14
 					]
 				}
 			],
@@ -151,6 +153,13 @@
 					"id" : "Simple_Brutal_Force_maxofarr::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Simple_Brutal_Force_maxofarr-Debug-34d002180087a632960f.json",
 					"name" : "Simple_Brutal_Force_maxofarr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack_Queue_circleQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack_Queue_circleQueue-Debug-4d49572433cbb2e7920a.json",
+					"name" : "Stack_Queue_circleQueue",
 					"projectIndex" : 0
 				},
 				{

@@ -474,6 +474,37 @@ build Stack_Queue_stack: CXX_EXECUTABLE_LINKER__Stack_Queue_stack_Debug CMakeFil
   TARGET_FILE = Stack_Queue_stack
   TARGET_PDB = Stack_Queue_stack.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Stack_Queue_circleQueue
+
+
+#############################################
+# Order-only phony target for Stack_Queue_circleQueue
+
+build cmake_object_order_depends_target_Stack_Queue_circleQueue: phony || CMakeFiles/Stack_Queue_circleQueue.dir
+
+build CMakeFiles/Stack_Queue_circleQueue.dir/Stack_Queue/circleQueue.cpp.o: CXX_COMPILER__Stack_Queue_circleQueue_Debug /Users/gimseungheon/Documents/Algorithm/Stack_Queue/circleQueue.cpp || cmake_object_order_depends_target_Stack_Queue_circleQueue
+  DEP_FILE = CMakeFiles/Stack_Queue_circleQueue.dir/Stack_Queue/circleQueue.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Stack_Queue_circleQueue.dir
+  OBJECT_FILE_DIR = CMakeFiles/Stack_Queue_circleQueue.dir/Stack_Queue
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Stack_Queue_circleQueue
+
+
+#############################################
+# Link the executable Stack_Queue_circleQueue
+
+build Stack_Queue_circleQueue: CXX_EXECUTABLE_LINKER__Stack_Queue_circleQueue_Debug CMakeFiles/Stack_Queue_circleQueue.dir/Stack_Queue/circleQueue.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/Stack_Queue_circleQueue.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Stack_Queue_circleQueue
+  TARGET_PDB = Stack_Queue_circleQueue.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -508,7 +539,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gimseungheon/Documents/Algorithm/cmake-build-debug
 
-build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack
+build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue
 
 # =============================================================================
 # Built-in targets
