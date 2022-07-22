@@ -15,5 +15,7 @@
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Stack_Queue_circleQueue.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Stack_Queue_parenthesis_string.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/DFS_binaryGraph.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/DFS_name_the_box.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/DFS_worm_virus.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
