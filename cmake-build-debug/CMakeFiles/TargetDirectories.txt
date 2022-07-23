@@ -19,5 +19,6 @@
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/DFS_find_same_ancestor.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/DFS_numbering_house.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_attack_range.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_color_paper.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
