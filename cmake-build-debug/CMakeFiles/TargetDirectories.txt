@@ -21,5 +21,6 @@
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_attack_range.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_color_paper.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_rook.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_matrix_inverse.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
