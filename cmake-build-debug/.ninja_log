@@ -1,11 +1,12 @@
 # ninja log v5
 239	268	1658324880100341404	BFS_weird_calc	7cf4979d63fff75a
-0	25	1658463305217778811	CMakeFiles/Stack_Queue_stack.dir/Stack_Queue/stack.cpp.o	4da6b4795043f3b6
 257	287	1658290737108728927	BFS_BFS_DFS	b3daad66068e1be2
+0	25	1658463305217778811	CMakeFiles/Stack_Queue_stack.dir/Stack_Queue/stack.cpp.o	4da6b4795043f3b6
 24	54	1658381847187575090	Array_triangle_1	3b12bc710d2756b
 0	24	1658458143302736669	CMakeFiles/BFS_maze.dir/BFS/maze.cpp.o	490ddef55dc5a35c
 207	238	1658472080987314368	DFS_worm_virus	929b2615fa964970
 23	53	1658382819151399453	Array_triangle_last	d7beb8d71c89275f
+314	343	1658475154669822338	DFS_numbering_house	46609fed10519a72
 23	53	1658396368515405675	Array_offset	463a01342ed13005
 1	314	1658474765457698243	CMakeFiles/DFS_name_the_box.dir/DFS/numbering_house.cpp.o	3cbf3a90d7d90159
 25	54	1658383588828888068	Array_dice_game	ea690494ab85e3d1
@@ -27,15 +28,16 @@
 0	23	1658390755960313179	CMakeFiles/Array_array_3.dir/Array/array_3.cpp.o	cd8c4abb92882612
 24	54	1658458143333239916	BFS_maze	2997dd366993f4f1
 25	53	1658463305246562459	Stack_Queue_stack	15b25bbd35a8ff96
+1	313	1658475154638327554	CMakeFiles/DFS_numbering_house.dir/DFS/numbering_house.cpp.o	4cf608fb66c90079
 0	236	1658464750359114612	CMakeFiles/Stack_Queue_parenthesis_string.dir/Stack_Queue/parenthesis_string.cpp.o	622ff94b2648c72c
 0	24	1658387384488765842	CMakeFiles/Array_point_calc.dir/Array/point_calc.cpp.o	f88758e62662f633
 236	268	1658464750392706756	Stack_Queue_parenthesis_string	997bccdd6f403214
 25	55	1658464083957528552	Stack_Queue_circleQueue	56f3cd44a0dcaf9a
-255	285	1658283586641940310	Algorithm	e0c82892d95dd43d
 23	52	1658382057461886465	Array_triangle_3	ffca1b005d18cea5
+255	285	1658283586641940310	Algorithm	e0c82892d95dd43d
 0	207	1658472080955396445	CMakeFiles/DFS_worm_virus.dir/DFS/worm_virus.cpp.o	8aeeacde97bd31c4
 24	56	1658472494029379688	DFS_find_same_ancestor	94674e4e4fdd2cb8
-0	312	1658474796322054553	CMakeFiles/DFS_numbering_house.dir/DFS/numbering_house.cpp.o	4cf608fb66c90079
-312	346	1658474796357694085	DFS_numbering_house	46609fed10519a72
-1	313	1658475154638327554	CMakeFiles/DFS_numbering_house.dir/DFS/numbering_house.cpp.o	4cf608fb66c90079
-314	343	1658475154669822338	DFS_numbering_house	46609fed10519a72
+0	70	1658555076825551594	CMakeFiles/Array_class_president.dir/Simple_Brutal_Force/class_president.cpp.o	c823c385190a759c
+70	132	1658555076887397587	Array_class_president	362dddba4beda5eb
+1	24	1658555134016103008	CMakeFiles/Array_class_president.dir/Simple_Brutal_Force/class_president.cpp.o	c823c385190a759c
+24	53	1658555134045187977	Array_class_president	362dddba4beda5eb
