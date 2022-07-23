@@ -36,7 +36,8 @@
 						18,
 						19,
 						20,
-						21
+						21,
+						22
 					]
 				}
 			],
@@ -72,7 +73,8 @@
 						18,
 						19,
 						20,
-						21
+						21,
+						22
 					]
 				}
 			],
@@ -209,6 +211,13 @@
 					"id" : "Simple_Brutal_Force_maxofarr::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Simple_Brutal_Force_maxofarr-Debug-34d002180087a632960f.json",
 					"name" : "Simple_Brutal_Force_maxofarr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_rook::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_rook-Debug-5974c8f01cc0348aa66b.json",
+					"name" : "Simple_Brutal_Force_rook",
 					"projectIndex" : 0
 				},
 				{

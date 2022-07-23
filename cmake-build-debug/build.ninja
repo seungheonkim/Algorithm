@@ -722,6 +722,37 @@ build Simple_Brutal_Force_color_paper: CXX_EXECUTABLE_LINKER__Simple_Brutal_Forc
   TARGET_FILE = Simple_Brutal_Force_color_paper
   TARGET_PDB = Simple_Brutal_Force_color_paper.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Simple_Brutal_Force_rook
+
+
+#############################################
+# Order-only phony target for Simple_Brutal_Force_rook
+
+build cmake_object_order_depends_target_Simple_Brutal_Force_rook: phony || CMakeFiles/Simple_Brutal_Force_rook.dir
+
+build CMakeFiles/Simple_Brutal_Force_rook.dir/Simple_Brutal_Force/rook.cpp.o: CXX_COMPILER__Simple_Brutal_Force_rook_Debug /Users/gimseungheon/Documents/Algorithm/Simple_Brutal_Force/rook.cpp || cmake_object_order_depends_target_Simple_Brutal_Force_rook
+  DEP_FILE = CMakeFiles/Simple_Brutal_Force_rook.dir/Simple_Brutal_Force/rook.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Simple_Brutal_Force_rook.dir
+  OBJECT_FILE_DIR = CMakeFiles/Simple_Brutal_Force_rook.dir/Simple_Brutal_Force
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Simple_Brutal_Force_rook
+
+
+#############################################
+# Link the executable Simple_Brutal_Force_rook
+
+build Simple_Brutal_Force_rook: CXX_EXECUTABLE_LINKER__Simple_Brutal_Force_rook_Debug CMakeFiles/Simple_Brutal_Force_rook.dir/Simple_Brutal_Force/rook.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/Simple_Brutal_Force_rook.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Simple_Brutal_Force_rook
+  TARGET_PDB = Simple_Brutal_Force_rook.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -756,7 +787,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gimseungheon/Documents/Algorithm/cmake-build-debug
 
-build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper
+build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper Simple_Brutal_Force_rook
 
 # =============================================================================
 # Built-in targets
