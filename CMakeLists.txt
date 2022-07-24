@@ -29,3 +29,4 @@ add_executable(Simple_Brutal_Force_attack_range Simple_Brutal_Force/attack_range
 add_executable(Simple_Brutal_Force_color_paper Simple_Brutal_Force/color_paper.cpp)
 add_executable(Simple_Brutal_Force_rook Simple_Brutal_Force/rook.cpp)
 add_executable(Simple_Brutal_Force_matrix_inverse Simple_Brutal_Force/matrix_inverse.cpp)
+add_executable(String_lower_upper String/lower_upper.cpp)
