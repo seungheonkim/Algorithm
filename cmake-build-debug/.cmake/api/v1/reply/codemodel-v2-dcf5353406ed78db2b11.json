@@ -1,0 +1,330 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algorithm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_array_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_array_3-Debug-3fc1167770f61011ddc5.json",
+					"name" : "Array_array_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_class_president::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_class_president-Debug-6df4ff873066de198e05.json",
+					"name" : "Array_class_president",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_dice_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_dice_game-Debug-d41deee2e65a913bd176.json",
+					"name" : "Array_dice_game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_offset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_offset-Debug-42055ee76c760416195f.json",
+					"name" : "Array_offset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_point_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_point_calc-Debug-ace0e3c3c328eb7fda09.json",
+					"name" : "Array_point_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_1-Debug-d3f091331457b2241d3b.json",
+					"name" : "Array_triangle_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_3-Debug-aa9c70a4bc787163f0a1.json",
+					"name" : "Array_triangle_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Array_triangle_last::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Array_triangle_last-Debug-69126275eebc3bdc99d6.json",
+					"name" : "Array_triangle_last",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_BFS_DFS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_BFS_DFS-Debug-a732ee345ba3b1c893d4.json",
+					"name" : "BFS_BFS_DFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_BFS_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_BFS_example-Debug-ce6fe81263aaa7d4223d.json",
+					"name" : "BFS_BFS_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_maze::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_maze-Debug-d6abb03c73b8860de071.json",
+					"name" : "BFS_maze",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BFS_weird_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFS_weird_calc-Debug-78f8cfe36b7876e1d392.json",
+					"name" : "BFS_weird_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DFS_binaryGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DFS_binaryGraph-Debug-87753945cbc4bf9b11a5.json",
+					"name" : "DFS_binaryGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DFS_find_same_ancestor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DFS_find_same_ancestor-Debug-e7b05ba802225db1a164.json",
+					"name" : "DFS_find_same_ancestor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DFS_numbering_house::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DFS_numbering_house-Debug-43108193220af9adccf6.json",
+					"name" : "DFS_numbering_house",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DFS_worm_virus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DFS_worm_virus-Debug-2293bccc11f4b8d543f6.json",
+					"name" : "DFS_worm_virus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra_party::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra_party-Debug-85e2e456325b22446c84.json",
+					"name" : "Dijkstra_party",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra_shortest_path::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra_shortest_path-Debug-1d330f58d90727f3a82e.json",
+					"name" : "Dijkstra_shortest_path",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra_specific_short_path::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra_specific_short_path-Debug-0297b01fd9d7ce9530b4.json",
+					"name" : "Dijkstra_specific_short_path",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_fill_the_block::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_fill_the_block-Debug-b646a6cb1bc01e77d456.json",
+					"name" : "Dynamic_Programming_fill_the_block",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_getFibo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_getFibo-Debug-ebe4ce72efe0628478ce.json",
+					"name" : "Dynamic_Programming_getFibo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_make_number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_make_number-Debug-fb32a26fcd50a8c50596.json",
+					"name" : "Dynamic_Programming_make_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_attack_range::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_attack_range-Debug-d9a9217495a82a70b5c9.json",
+					"name" : "Simple_Brutal_Force_attack_range",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_color_paper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_color_paper-Debug-d77c95f9b11773378928.json",
+					"name" : "Simple_Brutal_Force_color_paper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_matrix_inverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_matrix_inverse-Debug-9a9c5caa27d68e000ad8.json",
+					"name" : "Simple_Brutal_Force_matrix_inverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_maxofarr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_maxofarr-Debug-34d002180087a632960f.json",
+					"name" : "Simple_Brutal_Force_maxofarr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_rook::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_rook-Debug-5974c8f01cc0348aa66b.json",
+					"name" : "Simple_Brutal_Force_rook",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack_Queue_circleQueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack_Queue_circleQueue-Debug-4d49572433cbb2e7920a.json",
+					"name" : "Stack_Queue_circleQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack_Queue_parenthesis_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack_Queue_parenthesis_string-Debug-473cccb750a0a4d2e4ba.json",
+					"name" : "Stack_Queue_parenthesis_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Stack_Queue_stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Stack_Queue_stack-Debug-75dd05821412632eb83a.json",
+					"name" : "Stack_Queue_stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String_lower_upper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_lower_upper-Debug-35d61528d3209f9eae0d.json",
+					"name" : "String_lower_upper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gimseungheon/Documents/Algorithm/cmake-build-debug",
+		"source" : "/Users/gimseungheon/Documents/Algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
