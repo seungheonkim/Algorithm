@@ -815,6 +815,37 @@ build String_lower_upper: CXX_EXECUTABLE_LINKER__String_lower_upper_Debug CMakeF
   TARGET_FILE = String_lower_upper
   TARGET_PDB = String_lower_upper.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Dijkstra_shortest_path
+
+
+#############################################
+# Order-only phony target for Dijkstra_shortest_path
+
+build cmake_object_order_depends_target_Dijkstra_shortest_path: phony || CMakeFiles/Dijkstra_shortest_path.dir
+
+build CMakeFiles/Dijkstra_shortest_path.dir/Dijkstra/shortest_path.cpp.o: CXX_COMPILER__Dijkstra_shortest_path_Debug /Users/gimseungheon/Documents/Algorithm/Dijkstra/shortest_path.cpp || cmake_object_order_depends_target_Dijkstra_shortest_path
+  DEP_FILE = CMakeFiles/Dijkstra_shortest_path.dir/Dijkstra/shortest_path.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Dijkstra_shortest_path.dir
+  OBJECT_FILE_DIR = CMakeFiles/Dijkstra_shortest_path.dir/Dijkstra
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Dijkstra_shortest_path
+
+
+#############################################
+# Link the executable Dijkstra_shortest_path
+
+build Dijkstra_shortest_path: CXX_EXECUTABLE_LINKER__Dijkstra_shortest_path_Debug CMakeFiles/Dijkstra_shortest_path.dir/Dijkstra/shortest_path.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/Dijkstra_shortest_path.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Dijkstra_shortest_path
+  TARGET_PDB = Dijkstra_shortest_path.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -849,7 +880,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gimseungheon/Documents/Algorithm/cmake-build-debug
 
-build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper Simple_Brutal_Force_rook Simple_Brutal_Force_matrix_inverse String_lower_upper
+build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper Simple_Brutal_Force_rook Simple_Brutal_Force_matrix_inverse String_lower_upper Dijkstra_shortest_path
 
 # =============================================================================
 # Built-in targets
