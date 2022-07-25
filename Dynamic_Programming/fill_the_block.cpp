@@ -6,7 +6,7 @@
 int data[100] = {0,};
 int n;
 
-int getFibo(int x) {
+int getBlock(int x) {
 
     data[1] = 1;
     data[2] = 2;
@@ -21,7 +21,7 @@ int getFibo(int x) {
 int main() {
     scanf("%d", &n);
 
-    printf("%d", getFibo(n));
+    printf("%d", getBlock(n));
 
     return 0;
 }
