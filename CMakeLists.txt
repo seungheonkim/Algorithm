@@ -32,3 +32,4 @@ add_executable(Simple_Brutal_Force_matrix_inverse Simple_Brutal_Force/matrix_inv
 add_executable(String_lower_upper String/lower_upper.cpp)
 add_executable(Dijkstra_shortest_path Dijkstra/shortest_path.cpp)
 add_executable(Dijkstra_specific_short_path Dijkstra/specific_short_path.cpp)
+add_executable(Dijkstra_party Dijkstra/party.cpp)
