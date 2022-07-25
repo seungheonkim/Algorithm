@@ -1,15 +1,13 @@
 //
 // Created by 김승헌 on 2022/07/24.
 //
-#include <cstdio>
-#include <cstring>
+#include <stdio.h>
+#include <string.h>
 
-    char arr[1005];
 
 int main() {
+    char arr[1005];
     fgets(arr, 1005, stdin);
-
-    scanf("%s ", arr);
 
     int lenarr = strlen(arr);
 
