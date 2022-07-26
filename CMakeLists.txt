@@ -39,3 +39,4 @@ add_executable(Dynamic_Programming_make_number Dynamic_Programming/make_number.c
 add_executable(Dynamic_Programming_rectangle_fit Dynamic_Programming/rectangle_fit.cpp)
 add_executable(Dynamic_Programming_make_number_2 Dynamic_Programming/make_number_2.cpp)
 add_executable(Dynamic_Programming_square_number Dynamic_Programming/square_number.cpp)
+add_executable(Dynamic_Programming_button Dynamic_Programming/button.cpp)
