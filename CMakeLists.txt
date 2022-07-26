@@ -41,3 +41,4 @@ add_executable(Dynamic_Programming_make_number_2 Dynamic_Programming/make_number
 add_executable(Dynamic_Programming_square_number Dynamic_Programming/square_number.cpp)
 add_executable(Dynamic_Programming_button Dynamic_Programming/button.cpp)
 add_executable(Dynamic_Programming_card_game Dynamic_Programming/card_game.cpp)
+add_executable(Dynamic_Programming_ball_game Dynamic_Programming/ball_game.cpp)
