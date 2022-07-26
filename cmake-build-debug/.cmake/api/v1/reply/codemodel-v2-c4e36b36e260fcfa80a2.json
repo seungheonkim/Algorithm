@@ -45,7 +45,8 @@
 						27,
 						28,
 						29,
-						30
+						30,
+						31
 					]
 				}
 			],
@@ -90,7 +91,8 @@
 						27,
 						28,
 						29,
-						30
+						30,
+						31
 					]
 				}
 			],
@@ -248,6 +250,13 @@
 					"id" : "Dynamic_Programming_make_number::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Dynamic_Programming_make_number-Debug-fb32a26fcd50a8c50596.json",
 					"name" : "Dynamic_Programming_make_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_rectangle_fit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_rectangle_fit-Debug-82ac7f5a427d88af9dba.json",
+					"name" : "Dynamic_Programming_rectangle_fit",
 					"projectIndex" : 0
 				},
 				{
