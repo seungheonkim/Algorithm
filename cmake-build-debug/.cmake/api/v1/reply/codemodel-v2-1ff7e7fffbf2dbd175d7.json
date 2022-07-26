@@ -47,7 +47,8 @@
 						29,
 						30,
 						31,
-						32
+						32,
+						33
 					]
 				}
 			],
@@ -94,7 +95,8 @@
 						29,
 						30,
 						31,
-						32
+						32,
+						33
 					]
 				}
 			],
@@ -266,6 +268,13 @@
 					"id" : "Dynamic_Programming_rectangle_fit::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Dynamic_Programming_rectangle_fit-Debug-82ac7f5a427d88af9dba.json",
 					"name" : "Dynamic_Programming_rectangle_fit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_square_number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_square_number-Debug-81862e1e8913107a79c7.json",
+					"name" : "Dynamic_Programming_square_number",
 					"projectIndex" : 0
 				},
 				{
