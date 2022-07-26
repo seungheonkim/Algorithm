@@ -51,7 +51,8 @@
 						33,
 						34,
 						35,
-						36
+						36,
+						37
 					]
 				}
 			],
@@ -102,7 +103,8 @@
 						33,
 						34,
 						35,
-						36
+						36,
+						37
 					]
 				}
 			],
@@ -260,6 +262,13 @@
 					"id" : "Dynamic_Programming_card_game::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Dynamic_Programming_card_game-Debug-4a8be1a9140b2ea56cf0.json",
 					"name" : "Dynamic_Programming_card_game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_collect_mineral::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_collect_mineral-Debug-54d6488fd5590ec9def7.json",
+					"name" : "Dynamic_Programming_collect_mineral",
 					"projectIndex" : 0
 				},
 				{
