@@ -52,7 +52,9 @@
 						34,
 						35,
 						36,
-						37
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -104,7 +106,9 @@
 						34,
 						35,
 						36,
-						37
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -311,6 +315,20 @@
 					"id" : "Dynamic_Programming_square_number::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Dynamic_Programming_square_number-Debug-81862e1e8913107a79c7.json",
 					"name" : "Dynamic_Programming_square_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Programming_str_distance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Programming_str_distance-Debug-88a097cdf4f59f9682c7.json",
+					"name" : "Dynamic_Programming_str_distance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MST_Kruskal_kruscal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MST_Kruskal_kruscal-Debug-10d9ea5d376381c3ac7f.json",
+					"name" : "MST_Kruskal_kruscal",
 					"projectIndex" : 0
 				},
 				{
