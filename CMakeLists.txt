@@ -47,3 +47,4 @@ add_executable(Dynamic_Programming_str_distance Dynamic_Programming/str_distance
 add_executable(MST_Kruskal_kruscal MST_Kruskal/kruscal.cpp)
 add_executable(MST_Kruskal_friend MST_Kruskal/friend.cpp)
 add_executable(Simple_Brutal_Force_bingo Simple_Brutal_Force/bingo.cpp)
+add_executable(Simple_Brutal_Force_baseball_game Simple_Brutal_Force/baseball_game.cpp)
