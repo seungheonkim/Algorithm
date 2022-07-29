@@ -38,5 +38,7 @@
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Dynamic_Programming_collect_mineral.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Dynamic_Programming_str_distance.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/MST_Kruskal_kruscal.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/MST_Kruskal_friend.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/Simple_Brutal_Force_bingo.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

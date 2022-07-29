@@ -54,7 +54,9 @@
 						36,
 						37,
 						38,
-						39
+						39,
+						40,
+						41
 					]
 				}
 			],
@@ -108,7 +110,9 @@
 						36,
 						37,
 						38,
-						39
+						39,
+						40,
+						41
 					]
 				}
 			],
@@ -326,6 +330,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "MST_Kruskal_friend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MST_Kruskal_friend-Debug-cf20a1c4b6db5aba38a7.json",
+					"name" : "MST_Kruskal_friend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "MST_Kruskal_kruscal::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-MST_Kruskal_kruscal-Debug-10d9ea5d376381c3ac7f.json",
 					"name" : "MST_Kruskal_kruscal",
@@ -336,6 +347,13 @@
 					"id" : "Simple_Brutal_Force_attack_range::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Simple_Brutal_Force_attack_range-Debug-d9a9217495a82a70b5c9.json",
 					"name" : "Simple_Brutal_Force_attack_range",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Brutal_Force_bingo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Brutal_Force_bingo-Debug-2d038f1fe1d16cfb81c9.json",
+					"name" : "Simple_Brutal_Force_bingo",
 					"projectIndex" : 0
 				},
 				{
