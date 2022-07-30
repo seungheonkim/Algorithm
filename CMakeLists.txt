@@ -51,3 +51,4 @@ add_executable(Simple_Brutal_Force_baseball_game Simple_Brutal_Force/baseball_ga
 add_executable(String_mess_up String/mess_up.cpp)
 add_executable(String_string_inverse String/string_inverse.cpp)
 add_executable(String_pelindrom String/pelindrom.cpp)
+add_executable(String_string_zip String/string_zip.cpp)

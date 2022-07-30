@@ -60,7 +60,8 @@
 						42,
 						43,
 						44,
-						45
+						45,
+						46
 					]
 				}
 			],
@@ -120,7 +121,8 @@
 						42,
 						43,
 						44,
-						45
+						45,
+						46
 					]
 				}
 			],
@@ -446,6 +448,13 @@
 					"id" : "String_string_inverse::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-String_string_inverse-Debug-c8e118d6964a6cbc390a.json",
 					"name" : "String_string_inverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String_string_zip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_string_zip-Debug-0b98786d6e4f8bdf4d15.json",
+					"name" : "String_string_zip",
 					"projectIndex" : 0
 				}
 			]
