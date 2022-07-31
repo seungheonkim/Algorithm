@@ -46,5 +46,6 @@
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/String_pelindrom.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/String_string_zip.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/String_string_include.dir
+/Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/function_permutation.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gimseungheon/Documents/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
