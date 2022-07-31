@@ -1,14 +1,14 @@
 # ninja log v5
 0	25	1658464083927378220	CMakeFiles/Stack_Queue_circleQueue.dir/Stack_Queue/circleQueue.cpp.o	2c680ade94841f16
 24	52	1658387384517923095	Array_point_calc	a469eb53c6581064
+23	54	1658390755991037669	Array_array_3	75c5431055230bc
+1	24	1658472493996160398	CMakeFiles/DFS_find_same_ancestor.dir/DFS/find_same_ancestor.cpp.o	a6c6d777026e1133
 314	352	1658474765497501545	DFS_name_the_box	b1583442a2791fb3
 1	257	1658290737076960183	CMakeFiles/BFS_BFS_DFS.dir/BFS/BFS_DFS.cpp.o	7fca5c20261b85eb
-1	24	1658472493996160398	CMakeFiles/DFS_find_same_ancestor.dir/DFS/find_same_ancestor.cpp.o	a6c6d777026e1133
-23	54	1658390755991037669	Array_array_3	75c5431055230bc
-211	240	1658729802438165843	Dijkstra_specific_short_path	5ae89d84b9558e0f
-0	25	1658463305217778811	CMakeFiles/Stack_Queue_stack.dir/Stack_Queue/stack.cpp.o	4da6b4795043f3b6
-257	287	1658290737108728927	BFS_BFS_DFS	b3daad66068e1be2
 0	222	1659189888008594888	CMakeFiles/String_string_zip.dir/String/string_zip.cpp.o	f8505253d9151443
+257	287	1658290737108728927	BFS_BFS_DFS	b3daad66068e1be2
+0	25	1658463305217778811	CMakeFiles/Stack_Queue_stack.dir/Stack_Queue/stack.cpp.o	4da6b4795043f3b6
+211	240	1658729802438165843	Dijkstra_specific_short_path	5ae89d84b9558e0f
 239	268	1658324880100341404	BFS_weird_calc	7cf4979d63fff75a
 1	225	1658890632334412720	CMakeFiles/MST_Kruskal_kruscal.dir/MST_Kruskal/kruscal.cpp.o	2e2a071be2229a89
 217	247	1658731899576196652	Dijkstra_party	72319b53dbf19c45
@@ -69,8 +69,8 @@
 207	238	1658472080987314368	DFS_worm_virus	929b2615fa964970
 23	53	1658382819151399453	Array_triangle_last	d7beb8d71c89275f
 1	24	1658555134016103008	CMakeFiles/Array_class_president.dir/Simple_Brutal_Force/class_president.cpp.o	c823c385190a759c
-25	53	1658835365272816579	Dynamic_Programming_button	8c25f4a3665ef91f
 0	24	1658387384488765842	CMakeFiles/Array_point_calc.dir/Array/point_calc.cpp.o	f88758e62662f633
+25	53	1658835365272816579	Dynamic_Programming_button	8c25f4a3665ef91f
 0	23	1658829682507224658	CMakeFiles/Dynamic_Programming_card_game.dir/Dynamic_Programming/card_game.cpp.o	8b72844ef9ba7a83
 28	60	1659105039561976217	String_mess_up	1188ebff0efb12fa
 0	24	1658754842038974084	CMakeFiles/Dynamic_Programming_make_number.dir/Dynamic_Programming/make_number.cpp.o	cb0bfd45bfd6f821
@@ -78,9 +78,10 @@
 23	52	1658734531233903995	Dynamic_Programming_getFibo	e58309474af4e2b6
 23	53	1658829682537553837	Dynamic_Programming_card_game	78154d6a560603d4
 24	54	1658458143333239916	BFS_maze	2997dd366993f4f1
-0	25	1658835365243579226	CMakeFiles/Dynamic_Programming_button.dir/Dynamic_Programming/button.cpp.o	b701f672b6fa55e7
-24	54	1659102178368961197	Simple_Brutal_Force_bingo	4222a6ef494032c
 0	28	1659105039530026114	CMakeFiles/String_mess_up.dir/String/mess_up.cpp.o	ac279e0a9d285bac
+24	54	1659102178368961197	Simple_Brutal_Force_bingo	4222a6ef494032c
+0	25	1658835365243579226	CMakeFiles/Dynamic_Programming_button.dir/Dynamic_Programming/button.cpp.o	b701f672b6fa55e7
+24	54	1659279973623071175	function_factorial	8ad2302c968fc64c
 222	300	1659189888087345560	String_string_zip	a1b96391c528351a
 0	24	1658852590286966498	CMakeFiles/Dynamic_Programming_collect_mineral.dir/Dynamic_Programming/collect_mineral.cpp.o	1bbc94747c55ee97
 0	24	1659106447937279436	CMakeFiles/String_pelindrom.dir/String/pelindrom.cpp.o	8be5102528a282e
@@ -88,10 +89,9 @@
 0	27	1659279086522768581	CMakeFiles/function_permutation.dir/function/permutation.cpp.o	96e9c88a8c278153
 225	256	1658890632365978834	MST_Kruskal_kruscal	cee1e826a6b896e7
 25	54	1659105520463940365	String_string_inverse	e64c816c35f538de
-25	54	1659104720993798186	Simple_Brutal_Force_baseball_game	c8c904bc4b65a897
 0	24	1658838286349583742	CMakeFiles/Dynamic_Programming_ball_game.dir/Dynamic_Programming/ball_game.cpp.o	57c0ef17b78528e6
 0	25	1659192916600028381	CMakeFiles/String_string_include.dir/String/string_include.cpp.o	f75fe9d75f8391c0
-0	26	1659279934094146320	CMakeFiles/function_factorial.dir/function/factorial.cpp.o	dc4cd3b0010aae21
-26	57	1659279934124919014	function_factorial	8ad2302c968fc64c
+25	54	1659104720993798186	Simple_Brutal_Force_baseball_game	c8c904bc4b65a897
 0	24	1659279973592771440	CMakeFiles/function_factorial.dir/function/factorial.cpp.o	dc4cd3b0010aae21
-24	54	1659279973623071175	function_factorial	8ad2302c968fc64c
+0	29	1659280744719352476	CMakeFiles/function_binary.dir/function/binary.cpp.o	ebb1a38ed63a2326
+29	58	1659280744749081553	function_binary	d546bf9caa1b66be

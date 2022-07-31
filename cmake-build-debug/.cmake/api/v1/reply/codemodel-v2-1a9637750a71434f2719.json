@@ -64,7 +64,8 @@
 						46,
 						47,
 						48,
-						49
+						49,
+						50
 					]
 				}
 			],
@@ -128,7 +129,8 @@
 						46,
 						47,
 						48,
-						49
+						49,
+						50
 					]
 				}
 			],
@@ -468,6 +470,13 @@
 					"id" : "String_string_zip::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-String_string_zip-Debug-0b98786d6e4f8bdf4d15.json",
 					"name" : "String_string_zip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "function_binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-function_binary-Debug-aedc21c85bc9122244fd.json",
+					"name" : "function_binary",
 					"projectIndex" : 0
 				},
 				{

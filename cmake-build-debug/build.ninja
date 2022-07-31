@@ -1590,6 +1590,37 @@ build function_factorial: CXX_EXECUTABLE_LINKER__function_factorial_Debug CMakeF
   TARGET_FILE = function_factorial
   TARGET_PDB = function_factorial.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target function_binary
+
+
+#############################################
+# Order-only phony target for function_binary
+
+build cmake_object_order_depends_target_function_binary: phony || CMakeFiles/function_binary.dir
+
+build CMakeFiles/function_binary.dir/function/binary.cpp.o: CXX_COMPILER__function_binary_Debug /Users/gimseungheon/Documents/Algorithm/function/binary.cpp || cmake_object_order_depends_target_function_binary
+  DEP_FILE = CMakeFiles/function_binary.dir/function/binary.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/function_binary.dir
+  OBJECT_FILE_DIR = CMakeFiles/function_binary.dir/function
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target function_binary
+
+
+#############################################
+# Link the executable function_binary
+
+build function_binary: CXX_EXECUTABLE_LINKER__function_binary_Debug CMakeFiles/function_binary.dir/function/binary.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/function_binary.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = function_binary
+  TARGET_PDB = function_binary.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1624,7 +1655,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gimseungheon/Documents/Algorithm/cmake-build-debug
 
-build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper Simple_Brutal_Force_rook Simple_Brutal_Force_matrix_inverse String_lower_upper Dijkstra_shortest_path Dijkstra_specific_short_path Dijkstra_party Dynamic_Programming_getFibo Dynamic_Programming_fill_the_block Dynamic_Programming_make_number Dynamic_Programming_rectangle_fit Dynamic_Programming_make_number_2 Dynamic_Programming_square_number Dynamic_Programming_button Dynamic_Programming_card_game Dynamic_Programming_ball_game Dynamic_Programming_collect_mineral Dynamic_Programming_str_distance MST_Kruskal_kruscal MST_Kruskal_friend Simple_Brutal_Force_bingo Simple_Brutal_Force_baseball_game String_mess_up String_string_inverse String_pelindrom String_string_zip String_string_include function_permutation function_factorial
+build all: phony BFS_BFS_example BFS_BFS_DFS BFS_weird_calc BFS_maze Array_triangle_1 Array_triangle_3 Array_triangle_last Array_dice_game Array_point_calc Array_array_3 Simple_Brutal_Force_maxofarr Array_offset Array_class_president Stack_Queue_stack Stack_Queue_circleQueue Stack_Queue_parenthesis_string DFS_binaryGraph DFS_worm_virus DFS_find_same_ancestor DFS_numbering_house Simple_Brutal_Force_attack_range Simple_Brutal_Force_color_paper Simple_Brutal_Force_rook Simple_Brutal_Force_matrix_inverse String_lower_upper Dijkstra_shortest_path Dijkstra_specific_short_path Dijkstra_party Dynamic_Programming_getFibo Dynamic_Programming_fill_the_block Dynamic_Programming_make_number Dynamic_Programming_rectangle_fit Dynamic_Programming_make_number_2 Dynamic_Programming_square_number Dynamic_Programming_button Dynamic_Programming_card_game Dynamic_Programming_ball_game Dynamic_Programming_collect_mineral Dynamic_Programming_str_distance MST_Kruskal_kruscal MST_Kruskal_friend Simple_Brutal_Force_bingo Simple_Brutal_Force_baseball_game String_mess_up String_string_inverse String_pelindrom String_string_zip String_string_include function_permutation function_factorial function_binary
 
 # =============================================================================
 # Built-in targets
